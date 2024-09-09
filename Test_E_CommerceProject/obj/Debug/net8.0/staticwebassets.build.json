@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "uUDpIEXP5E+GnnSJ/uHpRENex5RNQ7+MXygoglKl5HY=",
+  "Source": "Test_E_CommerceProject.Service",
+  "BasePath": "_content/Test_E_CommerceProject.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Test_E_CommerceProject.Service\\wwwroot",
+      "Source": "Test_E_CommerceProject.Service",
+      "ContentRoot": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\",
+      "BasePath": "_content/Test_E_CommerceProject.Service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Test_E_CommerceProject.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\projects api using .net\\Test_E_CommerceProject\\Test_E_CommerceProject\\wwwroot\\",
+      "BasePath": "_content/Test_E_CommerceProject.Service",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}
